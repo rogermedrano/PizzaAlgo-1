@@ -1,3 +1,4 @@
 1. Determine pizza joints within delivery range
 2. Select from priority list
+    2a. Check for most stars
 3. Order from store preferred item
