@@ -1,3 +1,4 @@
 1. Determine pizza joints within delivery range
 2. Select from priority list
 3. Order from store preferred item
+4. Test branch directive: Order second preferred item if first is unavailable
