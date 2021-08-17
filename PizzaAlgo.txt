@@ -1,1 +1,2 @@
 1. Determine pizza joints within delivery range
+2. Select from priority list
